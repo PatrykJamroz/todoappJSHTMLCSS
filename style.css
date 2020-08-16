@@ -11,7 +11,7 @@ body {
     text-align: center;
 }
 
-/*#tasks {
+.single-task {
     background-color: aquamarine;
     width: 300px;
     height: 2em;
@@ -19,7 +19,7 @@ body {
     border-radius: 10px;
     margin-bottom: 1em;
     font-size: 15px;
-} */
+} 
 
 .entry-textbox {
     background-color: #FFB6C1;
