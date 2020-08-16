@@ -9,7 +9,7 @@ function addEntryToDom(event) {
     entryDiv.className = 'single-task';
     entryDiv.innerText = entryTextBox[0].value;
     tasksSection.appendChild(entryDiv);
-    entryTextBox[0].value = ''
+    entryTextBox[0].value = 'git'
     
 
 }
